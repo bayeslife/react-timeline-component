@@ -4,7 +4,7 @@ This project is intended to publish a react component library project to npm alo
 
 It has unit test for the component based on [this](https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2)
 
-There is also an example application which renders the components into a simple UI such that the component can be exercised/operated standalone from the use of the component in another application.
+There is also an example application which renders the components into a simple UI such that the component can be exercised/operated standalone from the use of the component in another application.  This functionality is deployed to [github pages](https://bayeslife.github.io/react-timeline-component/index.html)
 
 ## How to use
 
